@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>source_pic/22</file>
+        <file>source_pic/33</file>
+        <file>source_pic/44</file>
+        <file>source_pic/55</file>
+        <file>source_pic/66</file>
+        <file>source_pic/77</file>
+        <file>source_pic/88</file>
+        <file>source_pic/f2</file>
+        <file>source_pic/f3</file>
+        <file>source_pic/l1</file>
+        <file>source_pic/l2</file>
+        <file>source_pic/q1</file>
+        <file>source_pic/zhujiemian</file>
+        <file>source_pic/z1</file>
+        <file>source_pic/11</file>
+    </qresource>
+</RCC>
